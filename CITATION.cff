@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "Clinician Perspectives on Type 1 Diabetes Guidelines and Glucose Data Interpretation – Dataset"
+message: "If you use this dataset, please cite it using the metadata below."
+type: dataset
+version: "v1.0"
+authors:
+  - family-names: Basheikh
+    given-names: Mohammed
+  - family-names: Kongdee
+    given-names: Rujiravee
+  - family-names: Thabit
+    given-names: Hood
+  - family-names: Parsia
+    given-names: Bijan
+  - family-names: Clinch
+    given-names: Sarah
+  - family-names: Harper
+    given-names: Simon
+doi: 10.5281/zenodo.18404347
+date-released: 2026-01-28
+publisher: Zenodo
+license: MIT
+keywords:
+  - Type 1 Diabetes
+  - T1DM
+  - Clinical Guidelines
+  - Glucose Monitoring
+  - Healthcare Professionals
