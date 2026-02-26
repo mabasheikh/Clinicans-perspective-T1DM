@@ -1,21 +1,29 @@
 cff-version: 1.2.0
 title: "Clinician Perspectives on Type 1 Diabetes Guidelines and Glucose Data Interpretation – Dataset"
 message: "If you use this dataset, please cite it using the metadata below."
+abstract: |
+  This study explored healthcare professionals’ perspectives on the management of Type 1 Diabetes Mellitus (T1DM) through a two-part questionnaire. The first part examined how clinicians prioritise and apply current clinical guidelines, including the relative importance assigned to different aspects of T1DM management. The second part investigated clinicians’ perceptions of patients’ ability to interpret data from glucose monitoring devices and to make appropriate treatment decisions. An online questionnaire was completed by 19 healthcare professionals working in diabetes-related roles in the United Kingdom. The findings revealed that blood glucose management is prioritised within clinical guidance and that advice is frequently tailored to individual patient needs. Additionally, clinicians generally perceive that glucose data presented in glucose monitoring devices is easy for patients to interpret, while patients only occasionally make correct treatment decisions.
 type: dataset
-version: "v1.0"
+version: "v1.0.2"
 authors:
   - family-names: Basheikh
     given-names: Mohammed
+    orcid: "https://orcid.org/0000-0002-0671-6742"
   - family-names: Kongdee
     given-names: Rujiravee
+    orcid: "https://orcid.org/0000-0003-0375-2833"
   - family-names: Thabit
     given-names: Hood
+    orcid: "https://orcid.org/0000-0001-6076-6997"
   - family-names: Parsia
     given-names: Bijan
+    orcid: "https://orcid.org/0000-0002-3222-7571"
   - family-names: Clinch
     given-names: Sarah
+    orcid: "https://orcid.org/0000-0002-9305-4774"
   - family-names: Harper
     given-names: Simon
+    orcid: "https://orcid.org/0000-0001-9301-5049"
 doi: 10.5281/zenodo.18404347
 date-released: 2026-01-28
 publisher: Zenodo
